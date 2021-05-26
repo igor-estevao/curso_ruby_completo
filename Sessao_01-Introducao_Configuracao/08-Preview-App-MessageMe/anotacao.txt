@@ -1,0 +1,2 @@
+Essa aula é apenas uma apresentação do projeto que será desenvolvido na sessao 8, e é um app mensageiro que será feito em rails 5. 
+Será um app RealTime, onde haverá um chat.

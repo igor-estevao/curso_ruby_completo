@@ -1,0 +1,2 @@
+O curso é o meis vendido da udemy, e vai falar sobre quase todas as tecnologias que envolvem o ruby on rails.
+AS tecnologias novas, as velhas e tudo mais.

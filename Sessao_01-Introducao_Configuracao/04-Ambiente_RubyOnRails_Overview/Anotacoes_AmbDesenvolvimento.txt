@@ -1,0 +1,5 @@
+O curso necessitará de:
+    .Linguagem de programaçao Ruby;
+    .do framework e deendencias instalados localmente ou remotamente;
+    .editor de texto(recomendável vscode :);
+    .familiaridade com terminal/command line;

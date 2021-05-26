@@ -1,0 +1,2 @@
+Essa aula é apenas uma apresentação do projeto que será desenvolvido na sessao 9, e tem como objetivo 'listar' ações nas bolsas de valores. 
+Esse app usará rails 6 e esse app será um aprendizado para uso de Gems e o rails, além do uso APIs externas e trabalhar com bibliotecas.

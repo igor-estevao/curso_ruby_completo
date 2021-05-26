@@ -1,0 +1,4 @@
+Essa aula é apenas uma apresentação do projeto que será desenvolvido na sessao 12, em rails 5. 
+Esse app será sobre o gerenciamento de uma universidade, e terá classes como alunos, cursos, aulas, salas, etc.
+Tem como objetivo o uso do Material Design como framework front-end.
+Comunicação com database, rails console,  etc...

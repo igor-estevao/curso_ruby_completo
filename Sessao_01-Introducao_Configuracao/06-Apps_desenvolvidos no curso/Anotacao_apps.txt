@@ -1,0 +1,11 @@
+In the next few videos we will preview the web apps that are built in this course in the order listed below:
+
+Lecture 7 - SaaS App - This is the preview video of the Software as a Service app built as the final bonus project of this course, this will be built in section 10 of this course. Please note: This is a preview video for viewing purposes only, the url for the web app built in section 10 is different so don't try to enter in the app url and follow along as it will not work.
+
+Lecture 8 - MessageMe - This is a preview video of the MessageMe chat application built in section 8 of the course. This application features real-time chat functionality made easy by ActionCable using the websocket protocol and Semantic-UI as the front-end styling framework. This app is built using Rails 5.2.
+
+Lecture 9 - FinanceTracker - This is a highly functional and feature rich Finance-tracker application built using Rails 6. The app features working with external API's, security credential management, Devise for authentication, Bootstrap 4 for front-end styling, self-referential associations and much more.
+
+Lecture 10 - University app - This is the preview video for the optional University app application built in section 12. This app is optional and for practice but does feature a different front-end styling framework - MaterializeCSS.
+
+Lecture 11 - Alpha-blog (Old preview) - This is the old preview video for the alpha blog application built from sections 3-7. This is the main application built in the course for learning Rails from scratch and features migrations, CRUD and REST, resources built from scratch, testing, authentication systems, front-end styling by Bootstrap, asset pipeline and more
