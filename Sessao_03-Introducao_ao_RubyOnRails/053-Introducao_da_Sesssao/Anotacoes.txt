@@ -1,0 +1,10 @@
+Rails é um framework de desenvolvimento Web.
+
+Ruby on rails faz com que a construção de um web app saia do chão de forma muito rápida e simples.
+
+Continua a crescer até hoje. Open source.
+
+Site que hospeda as gems é https://rubygems.org/
+
+De forma geral, é ideal ler a documentação de uma Gem a fim de estudar como ela se comporta e o que ela pode fazer pela aplicação.
+

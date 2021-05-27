@@ -1,0 +1,2 @@
+Essa aula é apenas uma apresentação do projeto que será desenvolvido da sessao 4 até a 7, e será a aplicação principal do curso.
+Nessa aplicação, todos os fundamentos de Ruby on rails, além de fundamentos de web development. Github, git, repositórios, frontend, backend, etc... tudo o que é necessário em um desenvolvedor web.

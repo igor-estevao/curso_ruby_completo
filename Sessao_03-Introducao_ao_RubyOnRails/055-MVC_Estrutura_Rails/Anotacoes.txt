@@ -1,0 +1,12 @@
+Nessa aula, vai ser explicada a relação entre MVC e a estrutura das aplicações Rails;
+
+.Model:
+    .Usar sempre nomes inglês;
+    .Usar sempre singular;
+
+View:
+    .Adicionar a extensão '.erb', que fará com que o rails entenda o html, css, etc;
+
+.Controller:
+    .Nomes em plural;
+    .Extensao '.rb', pois o Controller será Ruby(geralmente);

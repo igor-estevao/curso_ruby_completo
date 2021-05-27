@@ -1,0 +1,25 @@
+Nessa aula:
+    .será feito o primeiro Hello World do curso;
+    .formalizar o uso das convernsões do Rails;
+    .Vizualizar o flow das informações no MVC;
+    
+Configurar o arquivo routes.rb, para modificarmos a rota raiz para um arquivo nosso e exibir um 'hello world'
+
+*Convensões da geração de Views
+
+    .Definir uma rota que aponta para um controle e uma action: controller#action;
+
+    .Ter um nome de controllerapropriado, por exemplo: lidando com layouts ou static pages da aplicacao, um nome poderia ser 'pages_controller';
+
+    .Ter um nome apropriado para a action, por exemplo: lidando com uma homepage, a action/método pode ser chamado somente de 'home';
+    
+    .Se feito dessa forma, Rails vai esperar uma pasta chamada 'pages', e um arquivo template 'home.html.erb' que será exibido pela action de mesmo nome;
+
+Lidando com os passos:
+
+    .Para definir uma rota para homepage, digitar "root 'pages#home'" dentro do arquivo 'routes.rb';
+    .Após isso, para gerar o controller de pages, rodamos o comando 'rails generate controller pages';
+    .Dentro de pages_controller, adicionar o método 'home'(não há necessidade de explicitar a view home, pois o rails, por convensão já espera uma view com esse nome)
+    .Dentro da pasta Views/pages, criar um arquivo chamado 'home.html.erb' e digitar algo a ser exibido naquela pagina;
+
+
