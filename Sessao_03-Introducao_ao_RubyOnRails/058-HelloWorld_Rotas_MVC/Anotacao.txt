@@ -9,7 +9,7 @@ Configurar o arquivo routes.rb, para modificarmos a rota raiz para um arquivo no
 
     .Definir uma rota que aponta para um controle e uma action: controller#action;
 
-    .Ter um nome de controllerapropriado, por exemplo: lidando com layouts ou static pages da aplicacao, um nome poderia ser 'pages_controller';
+    .Ter um nome de controller apropriado, por exemplo: lidando com layouts ou static pages da aplicacao, um nome poderia ser 'pages_controller';
 
     .Ter um nome apropriado para a action, por exemplo: lidando com uma homepage, a action/método pode ser chamado somente de 'home';
     

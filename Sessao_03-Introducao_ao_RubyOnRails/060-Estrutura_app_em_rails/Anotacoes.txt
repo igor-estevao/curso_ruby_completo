@@ -1,0 +1,14 @@
+Nessa aula:
+  -vai ser mostrado a estrutura do rails, alem das pastas do MVC;
+  -o que faz e qual a função de algumas pastas e alguns arquivos de configuração que um rails standart usa;
+  -as versões mais antigas possuem diferentes estruturas do que a versão atual (v6);
+
+Algumas pastas:
+  /app: onde os arquivos do app estão localizados
+    /assets: pasta onde arquivos estáticos estao guardados, assim como imagens, stylesheets, videos, etc;
+    /channels: arquivos que são processados em tempo real na aplicação, geralmente são arquivos relacionado a chats reprodução;
+    /controllers: arquivos de controle. application_controller é o arquivo padrão, o qual todas as funcionalidades criadas dentro desse controller estarão disponíveis em todos os outros controllers na aplicação;
+    /helpers: arquivos helpers para auxiliar em views. São arquivos padrão para lidar com funcionalidades de view;
+    /javascript: arquivos de script javascript. Disponibilizado via webpack;
+    /models: arquivos de modelo. Similar ao application_controller, onde o application_model é um modelo para todos os models criados na aplicação;
+    /views: arquivos 
