@@ -1,0 +1,1 @@
+As Aulas de bootstrap, todos os códigos, estilos e exemplos serão aplicados diretamente no app da sessão 05.
